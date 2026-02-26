@@ -25,8 +25,8 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "Jojos Boutick",
-    description: "Elegant e-commerce platform for curated fashion pieces with M-Pesa integration and Pick Up Mtaani delivery",
+    title: "Jojo's Boutique",
+    description: "A curated fashion e-commerce store built for the Kenyan market, with M-Pesa payments and Pick Up Mtaani delivery integration for a fully local shopping experience.",
     tech: ["React", "Node.js", "MongoDB", "M-Pesa API"],
     image: jojosBoutick,
     features: ["E-commerce", "M-Pesa Payments", "Order Tracking", "Product Reviews"],
@@ -34,37 +34,35 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Lipay Payment System",
-    description: "Full-stack payment management with invoice generation, Stripe integration, and mobile companion app",
+    title: "Lipay",
+    description: "A payment platform that lets businesses send invoices, collect payments in-app, and automate recurring billing — with a Kotlin mobile companion for on-the-go management.",
     tech: ["MongoDB", "Express", "React", "Node.js", "Kotlin"],
-
-  image:lipay,
+    image: lipay,
     features: ["Stripe Payments", "PDF Invoices", "Mobile App", "Real-time Tracking"],
     link: "#"
   },
-   {
+  {
     id: 3,
     title: "Trace",
-    description: "Trace is a project progress tracking tool that keeps teams and clients aligned. Project owners can create projects, monitor real-time progress updates, and leave comments — making it easy to stay informed without the back-and-forth.",
-    tech: ["Nextjs", "Typescript", "Supabase"],
+    description: "A project progress tool that keeps clients in the loop. Teams publish updates, clients comment and give feedback — no email chains, no status-update calls.",
+    tech: ["Next.js", "TypeScript", "Supabase"],
     image: project,
-    features: ["Project Management", "Project Updates", "Client Management"],
+    features: ["Project Management", "Progress Updates", "Client Feedback"],
     link: "#"
   },
-   {
+  {
     id: 4,
-    title: "Find a Vet",
-    description: "Find A Vet is a tool that helps pet owners in underserved areas quickly locate nearby veterinarians when it matters most",
+    title: "FindAVet",
+    description: "FindAVet helps pet owners in underserved areas locate and book veterinary care fast.",
     tech: ["Python", "React", "MongoDB"],
     image: findAVet,
     features: ["Easy Booking", "Direct Chat", "Emergency Care", "Pet Profiles"],
-    
     link: "#"
   },
   {
     id: 5,
     title: "Campaign Management Platform",
-    description: "Marketing campaign platform with real-time analytics, A/B testing, and interactive engagement tools",
+    description: "A marketing platform where teams build, preview, and track campaigns in real time — with A/B testing and an analytics dashboard to measure what's actually working.",
     tech: ["Vue.js", "Node.js", "PostgreSQL"],
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
     features: ["Analytics Dashboard", "A/B Testing", "Template Builder", "Real-time Preview"],
@@ -73,7 +71,7 @@ export const projects = [
   {
     id: 6,
     title: "Bancassurance Platform",
-    description: "Backend services integrating banking and insurance with automated claims management workflows",
+    description: "A backend system connecting banks and insurance providers, with automated claims processing, refund handling, and a maker-checker approval flow for financial compliance.",
     tech: ["Java", "Spring Boot", "PostgreSQL"],
     image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
     features: ["Claims Management", "Refund Processing", "Holiday Handler", "Maker-Checker Auth"],
