@@ -12,7 +12,7 @@ export const profileData = {
   phone: "+254111620459",
   location: "Nairobi, Kenya",
   yearsExperience: 4,
-  bio: "I’m a full-stack developer with 4+ years of experience building products across fintech, e-commerce, and SaaS — working with teams in Kenya, Australia, Denmark, and the US. I’m drawn to collaborative environments where there’s room to grow, learn better ways of doing things, and ship work that actually goes live. I care about clean, purposeful code and building things that solve real problems for real people."
+  bio: "I’m a full-stack developer with 4+ years of experience building products across fintech, e-commerce, and SaaS; working with teams in Kenya, Australia, Denmark, and the US. I’m drawn to collaborative environments where there’s room to grow, learn better ways of doing things, and ship work that actually goes live. I care about clean, purposeful code and building things that solve real problems for real people."
 };
 
 export const skills = [
