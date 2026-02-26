@@ -35,7 +35,7 @@ export const projects = [
   {
     id: 2,
     title: "Lipay",
-    description: "A payment platform that lets businesses send invoices, collect payments in-app, and automate recurring billing — with a Kotlin mobile companion for on-the-go management.",
+    description: "A payment platform that lets businesses send invoices, collect payments in-app, and automate recurring billing; with a Kotlin mobile companion for on-the-go management.",
     tech: ["MongoDB", "Express", "React", "Node.js", "Kotlin"],
     image: lipay,
     features: ["Stripe Payments", "PDF Invoices", "Mobile App", "Real-time Tracking"],
@@ -44,7 +44,7 @@ export const projects = [
   {
     id: 3,
     title: "Trace",
-    description: "A project progress tool that keeps clients in the loop. Teams publish updates, clients comment and give feedback — no email chains, no status-update calls.",
+    description: "A project progress tool that keeps clients in the loop. Teams publish updates, clients comment and give feedback; no email chains, no status-update calls.",
     tech: ["Next.js", "TypeScript", "Supabase"],
     image: project,
     features: ["Project Management", "Progress Updates", "Client Feedback"],
@@ -62,7 +62,7 @@ export const projects = [
   {
     id: 5,
     title: "Campaign Management Platform",
-    description: "A marketing platform where teams build, preview, and track campaigns in real time — with A/B testing and an analytics dashboard to measure what's actually working.",
+    description: "A marketing platform where teams build, preview, and track campaigns in real time; with A/B testing and an analytics dashboard to measure what's actually working.",
     tech: ["Vue.js", "Node.js", "PostgreSQL"],
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
     features: ["Analytics Dashboard", "A/B Testing", "Template Builder", "Real-time Preview"],
