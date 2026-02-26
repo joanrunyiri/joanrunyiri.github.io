@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.48dc9753.css",
-    "main.js": "/static/js/main.a4df2860.js",
+    "main.js": "/static/js/main.5e733df6.js",
     "static/media/JojosBoutick.webp": "/static/media/JojosBoutick.b3f204d389544c01f251.webp",
     "static/media/project.webp": "/static/media/project.61b77c2a68bb2789d27f.webp",
     "static/media/FindAVet.webp": "/static/media/FindAVet.9b77695e64c46d54bfdd.webp",
     "static/media/Lipay.webp": "/static/media/Lipay.f547d453b27fa7d6f8ec.webp",
     "index.html": "/index.html",
     "main.48dc9753.css.map": "/static/css/main.48dc9753.css.map",
-    "main.a4df2860.js.map": "/static/js/main.a4df2860.js.map"
+    "main.5e733df6.js.map": "/static/js/main.5e733df6.js.map"
   },
   "entrypoints": [
     "static/css/main.48dc9753.css",
-    "static/js/main.a4df2860.js"
+    "static/js/main.5e733df6.js"
   ]
 }
