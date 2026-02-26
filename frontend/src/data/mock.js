@@ -1,8 +1,8 @@
 // Joan Runyiri Portfolio Data - Updated
-import jojosBoutick from "@/assets/JojosBoutick.png"
-import lipay from "@/assets/Lipay.png"
-import findAVet from "@/assets/FindAVet.png"
-import project from "@/assets/project.png"
+import jojosBoutick from "@/assets/JojosBoutick.webp"
+import lipay from "@/assets/Lipay.webp"
+import findAVet from "@/assets/FindAVet.webp"
+import project from "@/assets/project.webp"
 
 export const profileData = {
   name: "Joan Runyiri",

@@ -39,6 +39,7 @@ const Projects = () => {
                 src={projects[activeProject].image}
                 alt={projects[activeProject].title}
                 className="w-full h-full object-contain p-8"
+                loading="lazy"
               />
 
               {/* Minimalist Zoom Overlay */}
